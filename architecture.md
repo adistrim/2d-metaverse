@@ -216,13 +216,14 @@ Returns
 
 13. Admin/Map Creator - Create an element - POST /api/v1/admin/element
 
-````json
+```json
 {
     "imageUrl": "https://example.com/something.png",
     "width": 1,
     "height": 1,
     "static": true // weather or not the user can sit on top of this element
 }
+```
 
 14. Update an element - PUT /api/v1/admin/element/:elementId
 (Can't update dimension once created)
