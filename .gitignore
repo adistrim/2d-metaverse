@@ -1,0 +1,186 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Python #
+##########
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks #
+#####################
+.ipynb_checkpoints/
+
+# Virtual environments #
+########################
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node.js #
+###########
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# TypeScript #
+##############
+*.tsbuildinfo
+
+# Java #
+########
+*.class
+*.jar
+*.war
+*.ear
+
+# macOS #
+#########
+*.DS_Store
+
+# Windows #
+###########
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and Editors #
+####################
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# JetBrains #
+#############
+*.iml
+*.iws
+.idea/
+out/
+
+# Compiled files #
+##################
+*.o
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# C++ #
+#######
+*.obj
+*.lib
+*.a
+*.lo
+*.la
+*.lai
+*.slo
+
+# C#
+#####
+*.dll
+*.pdb
+*.mdb
+*.exe
+
+# Ruby #
+########
+*.gem
+*.rbc
+.bundle/
+vendor/bundle/
+
+# Go #
+######
+*.exe
+*.test
+*.out
+
+# Rust #
+########
+target/
+
+# Backup files #
+################
+*.bak
+*.swp
+*.swo
+*.orig
+*~
+
+# Temporary files #
+###################
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.pid
+*.seed
+*.backup
+*.old
+
+# Docker #
+##########
+*.log
+*.lock
+docker-compose.override.yml
+.env
+tmp/
+**/.sass-cache/
+
+# JavaScript #
+##############
+coverage/
+.jest/
+.cache/
+dist/
+build/
+
+# Environment Variables #
+#########################
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database #
+############
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Logs #
+########
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Miscellaneous #
+#################
+!.gitattributes
+!.gitignore
+.vscode/
