@@ -40,6 +40,14 @@ Return Status code 200 if successful, 400 if username already exists
 <br> `admin` type user can create maps, elements, etc. `user` type can create
 rooms only.
 
+Returns
+
+```json
+{
+    "userId": "123"
+}
+```
+
 2. POST /api/v1/signin
 
 ```json
